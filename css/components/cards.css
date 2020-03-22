@@ -1,0 +1,21 @@
+.cards {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+.card {
+  width: 200px;
+  border-radius:  3px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  padding: 20px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+}
+.card img {
+  height: 100px;
+}
+.card {
+  text-align: center;
+}
+.card p {
+  color: #413c69
+}
