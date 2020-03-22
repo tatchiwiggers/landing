@@ -1,6 +1,7 @@
 .banner {
-  color: white;
+  background-position: center;
   background-size: cover;
+  color: white;
   padding: 100px 0px;
 }
 

@@ -1,16 +1,18 @@
 .cards {
   display: flex;
   justify-content: space-between;
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 .card {
   width: 200px;
   border-radius:  3px;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  text-align: center;
   padding: 20px;
   border: 1px solid rgba(0, 0, 0, 0.3);
 }
 .card img {
+  width: 150px;
   height: 100px;
 }
 .card {
@@ -18,4 +20,5 @@
 }
 .card p {
   color: #413c69
+  opacity: 0.5;
 }
